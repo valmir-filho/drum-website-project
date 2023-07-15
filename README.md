@@ -1,2 +1,7 @@
-# drum-website-project
-Repository about drum-website-project by 2023 Web Development Bootcamp from Udemy.
+Drum Website Project by 2023 Web Development Bootcamp Repository from Udemy.
+
+Content:
+
+Drum Website Project developed by Dr. Angela Yu from Udemy.
+
+Used IDE: Visual Studio Code.
